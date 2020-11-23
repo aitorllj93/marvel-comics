@@ -41,7 +41,7 @@ export class ComicsListComponent implements OnInit {
         this.limit = metadata.limit;
         this.total = metadata.total;
       }
-    )
+    );
   }
 
   onPageChange(page: PageEvent) {

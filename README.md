@@ -48,3 +48,4 @@ I have used [Cypress](https://www.cypress.io/) to make two example tests of the 
 
 * Maybe it would also be a good decision to add a [Docker](https://www.docker.com/) configuration to the project in order to make easier the CI and deployment phases.
 
+* Add pagination parameters to the Comics List route to keep active page on page refresh.

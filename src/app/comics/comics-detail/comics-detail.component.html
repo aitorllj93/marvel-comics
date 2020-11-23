@@ -1,4 +1,4 @@
-<ng-container *ngIf="!(loadingSelectedComic$ | async) else loadingContent">
+<ng-container *ngIf="(loadingSelectedComic$ | async) === false; else loadingContent">
 
 	<div fxLayout="row wrap" fxFlexFill *ngIf="selectedComic$ | async as comic" id="comic-detail">
 

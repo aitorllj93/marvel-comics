@@ -1,0 +1,3004 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2020 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+  "etag": "ca809f4ff4963fcc78f5c2dff154460b6890d3f0",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 2355,
+    "count": 20,
+    "results": [
+      {
+        "id": 77241,
+        "digitalId": 0,
+        "title": "Captain America (2018) #25",
+        "issueNumber": 25,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-11-17T14:12:30-0500",
+        "isbn": "",
+        "upc": "75960608860702511",
+        "diamondCode": "SEP200632",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77241",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77241/captain_america_2018_25?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-25/digital-comic/55681?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91650",
+            "name": "Captain America (2018) #25 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91651",
+            "name": "Captain America (2018) #25 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91652",
+            "name": "Captain America (2018) #25 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64178",
+            "name": "Captain America (2018) #25"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-11-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-10-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5faedc5b731a7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5faedc5b731a7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9096",
+              "name": "Michael Cho",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14151",
+              "name": "Anthony Falcone",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+              "name": "Leonard Kirk",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171354",
+              "name": "cover from Captain America (2018) #25",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171355",
+              "name": "story from Captain America (2018) #25",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77163,
+        "digitalId": 0,
+        "title": "Miles Morales: Spider-Man (2018) #20",
+        "issueNumber": 20,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-05-30T09:06:54-0400",
+        "isbn": "",
+        "upc": "75960609123202011",
+        "diamondCode": "SEP200630",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77163",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77163/miles_morales_spider-man_2018_20?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Miles-Morales-Spider-Man-20/digital-comic/55699?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25999",
+          "name": "Miles Morales: Spider-Man (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91674",
+            "name": "Miles Morales: Spider-Man (2018) #20 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-11-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-10-12T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5f4fafa3c3317",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5f4fafa3c3317",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77163/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13081",
+              "name": "Saladin Ahmed",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "name": "David Curiel",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/544",
+              "name": "Wayne Faucher",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13604",
+              "name": "Marcelo Ferreira",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+              "name": "Javier Garron",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13449",
+              "name": "Chris Sotomayor",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77163/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77163/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171198",
+              "name": "cover from Miles Morales: Spider-Man (2018) #20",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171199",
+              "name": "story from Miles Morales: Spider-Man (2018) #20",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77163/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77240,
+        "digitalId": 0,
+        "title": "Captain America (2018) #24",
+        "issueNumber": 24,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-04-30T09:07:49-0400",
+        "isbn": "",
+        "upc": "75960608860702411",
+        "diamondCode": "AUG200698",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77240",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77240/captain_america_2018_24?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-24/digital-comic/55547?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-10-14T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-09-21T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5f2da4cfc94ef",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5f2da4cfc94ef",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77240/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+              "name": "Daniel Acuna",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77240/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77240/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171352",
+              "name": "cover from Captain America (2018) #24",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171353",
+              "name": "story from Captain America (2018) #24",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77240/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77239,
+        "digitalId": 0,
+        "title": "Captain America (2018) #23",
+        "issueNumber": 23,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-05-28T09:03:48-0400",
+        "isbn": "",
+        "upc": "75960608860702311",
+        "diamondCode": "APR201029",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77239",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77239/captain_america_2018_23?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-23/digital-comic/55405?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/90588",
+            "name": "Captain America (2018) #23 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91855",
+            "name": "Captain America (2018) #23 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-09-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-08-24T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5f594325d6835",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5f594325d6835",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77239/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13539",
+              "name": "Robert Quinn",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77239/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77239/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171350",
+              "name": "cover from Captain America (2018) #23",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171351",
+              "name": "story from Captain America (2018) #23",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77239/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77238,
+        "digitalId": 0,
+        "title": "Captain America (2018) #22",
+        "issueNumber": 22,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-09-23T09:04:00-0400",
+        "isbn": "",
+        "upc": "75960608860702211",
+        "diamondCode": "MAR201025",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77238",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77238/captain_america_2018_22?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-22/digital-comic/54861?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-08-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-07-27T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5f2c343f5e779",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5f2c343f5e779",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77238/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13539",
+              "name": "Robert Quinn",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77238/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017575",
+              "name": "Captain America (Sam Wilson)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010682",
+              "name": "Misty Knight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77238/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171348",
+              "name": "cover from Captain America (2018) #22",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171349",
+              "name": "story from Captain America (2018) #22",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77238/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 88629,
+        "digitalId": 55076,
+        "title": "Empyre: Captain America (2020) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-09-23T09:04:42-0400",
+        "isbn": "",
+        "upc": "75960609894100211",
+        "diamondCode": "APR200859",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/88629",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/88629/empyre_captain_america_2020_2?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Empyre-Captain-America-2/digital-comic/55076?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55076&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55076?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/30520",
+          "name": "Empyre: Captain America (2020)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/90215",
+            "name": "Empyre: Captain America (2020) #2 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-08-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-07-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-11-16T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-08-12T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5f282a4aeeed9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5f282a4aeeed9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88629/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13647",
+              "name": "Lauren Amaro",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11435",
+              "name": "Mike Henderson",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13750",
+              "name": "Phillip Kennedy Johnson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "name": "Vc Ariana Maher",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13003",
+              "name": "Nolan Woodard",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88629/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88629/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/197476",
+              "name": "cover from Empyre: Captain America (2020) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/197477",
+              "name": "story from Empyre: Captain America (2020) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88629/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 82285,
+        "digitalId": 0,
+        "title": "Heroes Reborn: Captain America (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-08-07T11:32:33-0400",
+        "isbn": "978-1-302-92345-7",
+        "upc": "",
+        "diamondCode": "MAR201116",
+        "ean": "9781302 923457 54499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 488,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82285",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/82285/heroes_reborn_captain_america_trade_paperback?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29207",
+          "name": "Heroes Reborn: Captain America (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-08-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-06-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 44.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5f2d6cceb2e77",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5f2d6cceb2e77",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82285/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1337",
+              "name": "Ed Benes",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1148",
+              "name": "Brett Booth",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+              "name": "Michael Ryan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1300",
+              "name": "Terry Shoemaker",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/96",
+              "name": "Jim Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+              "name": "James Robinson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12516",
+              "name": "Walt Simonson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13100",
+              "name": "Jeph York",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+              "name": "Rob Liefeld",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 13
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82285/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82285/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182314",
+              "name": "cover from HEROES REBORN: CAPTAIN AMERICA TPB (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182315",
+              "name": "story from HEROES REBORN: CAPTAIN AMERICA TPB (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82285/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77237,
+        "digitalId": 54589,
+        "title": "Captain America (2018) #21",
+        "issueNumber": 21,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-04-30T09:07:44-0400",
+        "isbn": "",
+        "upc": "75960608860702111",
+        "diamondCode": "FEB200996",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77237",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77237/captain_america_2018_21?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-21/digital-comic/54589?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=54589&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/54589?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/88443",
+            "name": "Captain America (2018) #21 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-08-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-07-13T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-11-09T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-08-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5e9e07700fdfc",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5e9e07700fdfc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77237/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13539",
+              "name": "Robert Quinn",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77237/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77237/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171346",
+              "name": "cover from Captain America (2018) #21",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171347",
+              "name": "story from Captain America (2018) #21",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77237/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 88628,
+        "digitalId": 54876,
+        "title": "Empyre: Captain America (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-07-25T00:29:28-0400",
+        "isbn": "",
+        "upc": "75960609894100111",
+        "diamondCode": "MAR200846",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/88628",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/88628/empyre_captain_america_2020_1?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Empyre-Captain-America-1/digital-comic/54876?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=54876&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/54876?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/30520",
+          "name": "Empyre: Captain America (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-07-06T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-11-02T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-07-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5f282a7bb3e6e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5f282a7bb3e6e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88628/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13647",
+              "name": "Lauren Amaro",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "name": "Vc Ariana Maher",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11435",
+              "name": "Mike Henderson",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13750",
+              "name": "Phillip Kennedy Johnson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13003",
+              "name": "Nolan Woodard",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88628/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88628/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/197474",
+              "name": "cover from Empyre: Captain America (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/197475",
+              "name": "story from Empyre: Captain America (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/88628/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 82601,
+        "digitalId": 54590,
+        "title": "Captain America: Marvels Snapshots (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-06-21T10:21:54-0400",
+        "isbn": "",
+        "upc": "75960609759300111",
+        "diamondCode": "FEB200899",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82601",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/82601/captain_america_marvels_snapshots_2020_1?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/CAPTAIN-AMERICA-MARVELS-SNAPSHOTS-1-1/digital-comic/54590?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=54590&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/54590?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29361",
+          "name": "Captain America: Marvels Snapshots (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-06-24T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-03-16T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-10-12T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-06-24T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5e8653c473fc7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5e8653c473fc7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82601/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13647",
+              "name": "Lauren Amaro",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13552",
+              "name": "Ramon K. Perez",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9329",
+              "name": "Rico Renzi",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13989",
+              "name": "Mark Russell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82601/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82601/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182964",
+              "name": "cover from new series (2029) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182965",
+              "name": "story from new series (2029) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82601/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 91232,
+        "digitalId": 0,
+        "title": "Captain America: Von Strucker Gambit (2020)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-05-08T15:33:38-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "",
+        "pageCount": 1,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/91232",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/91232/captain_america_von_strucker_gambit_2020?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/31249",
+          "name": "Captain America: Von Strucker Gambit (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-05-06T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/5eb5b22070fa2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/5eb5b22070fa2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91232/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5178",
+              "name": "Mike Baron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13262",
+              "name": "Dan Chichester",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5237",
+              "name": "Gregory Wright",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/934",
+              "name": "Mike Manley",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1901",
+              "name": "Tom Morgan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1926",
+              "name": "Mike Mignola",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91232/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91232/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/203544",
+              "name": "cover from CAPTAIN AMERICA: VON STRUCKER GAMBIT (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/203545",
+              "name": "story from CAPTAIN AMERICA: VON STRUCKER GAMBIT (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/91232/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 78072,
+        "digitalId": 0,
+        "title": "Captain America: Winter Soldier Marvel Select (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-12T09:48:31-0400",
+        "isbn": "978-1-302-92123-1",
+        "upc": "",
+        "diamondCode": "SEP190965",
+        "ean": "9781302 921231 52999",
+        "issn": "0274-5267",
+        "format": "Hardcover",
+        "pageCount": 304,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/78072",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/78072/captain_america_winter_soldier_marvel_select_hardcover?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27907",
+          "name": "Captain America: Winter Soldier Marvel Select (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-10-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 29.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5e67ede9f3c11",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5e67ede9f3c11",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78072/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/509",
+              "name": "Michael Lark",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/127",
+              "name": "John Paul Leon",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78072/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78072/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/173147",
+              "name": "cover from CAPTAIN AMERICA: WINTER SOLDIER MARVEL SELECT HC (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/173148",
+              "name": "story from CAPTAIN AMERICA: WINTER SOLDIER MARVEL SELECT HC (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78072/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77236,
+        "digitalId": 54247,
+        "title": "Captain America (2018) #20",
+        "issueNumber": 20,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-10T15:58:44-0400",
+        "isbn": "",
+        "upc": "75960608860702011",
+        "diamondCode": "JAN200908",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77236",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77236/captain_america_2018_20?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-20/digital-comic/54247?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=54247&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/54247?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84990",
+            "name": "Captain America (2018) #20 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-02-24T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-09-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-03-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5e67b5da5df16",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5e67b5da5df16",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77236/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13539",
+              "name": "Robert Quinn",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77236/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77236/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171344",
+              "name": "cover from Captain America (2018) #20",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171345",
+              "name": "story from Captain America (2018) #20",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77236/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 78621,
+        "digitalId": 54299,
+        "title": "Marvel's Avengers: Captain America (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-17T14:51:15-0400",
+        "isbn": "",
+        "upc": "75960609585800111",
+        "diamondCode": "JAN200978",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/78621",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/78621/marvels_avengers_captain_america_2020_1?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-s-Avengers-Captain-America-1/digital-comic/54299?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=54299&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/54299?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/28028",
+          "name": "Marvel's Avengers: Captain America (2020)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/85244",
+            "name": "Marvel's Avengers: Captain America (2020) #1 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-02-24T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-09-21T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-03-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/5e67bd5bd26ad",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/5e67bd5bd26ad",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78621/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12854",
+              "name": "Paul Allor",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+              "name": "Mark Basso",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13060",
+              "name": "Marc Deering",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/188",
+              "name": "Georges Jeanty",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13449",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4267",
+              "name": "Andy Troy",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13043",
+              "name": "S Stonehouse",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78621/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78621/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/174264",
+              "name": "cover from Marvel's Avengers: Captain America (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/174265",
+              "name": "story from Marvel's Avengers: Captain America (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/78621/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 81260,
+        "digitalId": 0,
+        "title": "Captain America Epic Collection: Blood And Glory (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-12T09:38:56-0400",
+        "isbn": "978-1-302-92279-5",
+        "upc": "",
+        "diamondCode": "DEC191003",
+        "ean": "9781302 922795 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 496,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/81260",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/81260/captain_america_epic_collection_blood_and_glory_trade_paperback?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29065",
+          "name": "Captain America Epic Collection: Blood And Glory (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-27T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/5e67eddd8d65a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/04/5e67eddd8d65a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81260/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2112",
+              "name": "Larry Alexander",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2488",
+              "name": "Kevin Kobasic",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13262",
+              "name": "Dan Chichester",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4858",
+              "name": "Margaret Clark",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10581",
+              "name": "Vero Gandini",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/382",
+              "name": "Rik Levins",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81260/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81260/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/180241",
+              "name": "cover from CAPTAIN AMERICA EPIC COLLECTION: BLOOD AND GLORY TPB (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/180242",
+              "name": "story from CAPTAIN AMERICA EPIC COLLECTION: BLOOD AND GLORY TPB (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/81260/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 82368,
+        "digitalId": 0,
+        "title": "Marvel Monograph: The Art Of Chris Bachalo (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-03-03T16:22:21-0500",
+        "isbn": "978-1-302-92405-8",
+        "upc": "",
+        "diamondCode": "DEC191009",
+        "ean": "9781302 924058 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/82368",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/82368/marvel_monograph_the_art_of_chris_bachalo_trade_paperback?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/29283",
+          "name": "Marvel Monograph: The Art Of Chris Bachalo (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-03-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-20T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5e59772d91fb8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5e59772d91fb8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82368/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10363",
+              "name": "John Rhett Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82368/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82368/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182480",
+              "name": "cover from MARVEL MONOGRAPH: THE ART OF CHRIS BACHALO TPB (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/182481",
+              "name": "story from MARVEL MONOGRAPH: THE ART OF CHRIS BACHALO TPB (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/82368/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 74856,
+        "digitalId": 0,
+        "title": "Tales Through The Marvel Universe (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-02-18T13:39:47-0500",
+        "isbn": "978-1-302-91746-3",
+        "upc": "",
+        "diamondCode": "NOV190973",
+        "ean": "9781302 917463 52499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 216,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/74856",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/74856/tales_through_the_marvel_universe_trade_paperback?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26940",
+          "name": "Tales Through The Marvel Universe (2020)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-02-19T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-12-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/5e4c133b4a99f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/5e4c133b4a99f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74856/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74856/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010925",
+              "name": "Ghost Rider (Daniel Ketch)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74856/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/166550",
+              "name": "cover from MARVEL COMICS PRESENTS VOL. 1 TPB (2019) #91746",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/166551",
+              "name": "story from MARVEL COMICS PRESENTS VOL. 1 TPB (2019) #91746",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/74856/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77235,
+        "digitalId": 53937,
+        "title": "Captain America (2018) #19",
+        "issueNumber": 19,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-02-11T09:02:39-0500",
+        "isbn": "",
+        "upc": "75960608860701911",
+        "diamondCode": "DEC190926",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77235",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77235/captain_america_2018_19?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-19/digital-comic/53937?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=53937&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/53937?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/84117",
+            "name": "Captain America (2018) #19 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-02-19T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-27T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-08-24T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-02-19T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5e28a32636e95",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5e28a32636e95",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77235/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12479",
+              "name": "Jason Masters",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13539",
+              "name": "Robert Quinn",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13706",
+              "name": "Lucas Gomes Werneck",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77235/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77235/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171342",
+              "name": "cover from Captain America (2018) #19",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171343",
+              "name": "story from Captain America (2018) #19",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77235/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77492,
+        "digitalId": 53539,
+        "title": "Captain America: The End (2020) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-27T17:22:50-0500",
+        "isbn": "",
+        "upc": "75960609571100111",
+        "diamondCode": "NOV190787",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77492",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77492/captain_america_the_end_2020_1?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/CAPTAIN-AMERICA-THE-END-1-1/digital-comic/53539?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=53539&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/53539?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27741",
+          "name": "Captain America: The End (2020)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83539",
+            "name": "Captain America: The End (2020) #1 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-02-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-13T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-08-10T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-02-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/5e2f0dd2efde5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/5e2f0dd2efde5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77492/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/704",
+              "name": "Erik Larsen",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13005",
+              "name": "Dono Sanchez-Almara",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12845",
+              "name": "Scott Wilson",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77492/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77492/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171870",
+              "name": "cover from Captain America: The End (2020) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171871",
+              "name": "story from Captain America: The End (2020) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77492/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 77234,
+        "digitalId": 53538,
+        "title": "Captain America (2018) #18",
+        "issueNumber": 18,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-01-23T09:04:37-0500",
+        "isbn": "",
+        "upc": "75960608860701811",
+        "diamondCode": "NOV190871",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77234",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77234/captain_america_2018_18?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-18/digital-comic/53538?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=53538&utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/53538?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/83622",
+            "name": "Captain America (2018) #18 (Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-01-29T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-01-06T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-08-03T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-01-29T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/5e289106b4386",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/5e289106b4386",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77234/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12479",
+              "name": "Jason Masters",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77234/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77234/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171340",
+              "name": "cover from Captain America (2018) #18",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171341",
+              "name": "story from Captain America (2018) #18",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77234/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

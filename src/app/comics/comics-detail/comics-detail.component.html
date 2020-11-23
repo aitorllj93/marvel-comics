@@ -1,6 +1,6 @@
 <ng-container *ngIf="!(loadingSelectedComic$ | async) else loadingContent">
 
-	<div fxLayout="row wrap" fxFlexFill *ngIf="selectedComic$ | async as comic">
+	<div fxLayout="row wrap" fxFlexFill *ngIf="selectedComic$ | async as comic" id="comic-detail">
 
 		<div fxFlex="25" style="padding: 20px;">
       <img [src]="comic.thumbnail.path + '.' + comic.thumbnail.extension" width="100%">

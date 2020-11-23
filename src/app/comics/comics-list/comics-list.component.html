@@ -8,7 +8,7 @@
     (page)="onPageChange($event)">
   </mat-paginator>
 
-	<div fxLayout="row wrap" fxFlexFill>
+	<div fxLayout="row wrap" fxFlexFill id="comics-list-layout">
 
 		<div fxFlex="25" *ngFor="let comic of comics$ | async" style="padding: 20px;">
 

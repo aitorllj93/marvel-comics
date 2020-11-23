@@ -1,0 +1,175 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2020 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+  "etag": "5f07c068e476274ef9ff60f358a6643f1f6d7734",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 77241,
+        "digitalId": 0,
+        "title": "Captain America (2018) #25",
+        "issueNumber": 25,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2020-11-17T14:12:30-0500",
+        "isbn": "",
+        "upc": "75960608860702511",
+        "diamondCode": "SEP200632",
+        "ean": "",
+        "issn": "2379-2787",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77241",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77241/captain_america_2018_25?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-25/digital-comic/55681?utm_campaign=apiRef&utm_source=c9540302ac1498d6ccb272151949cb35"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24503",
+          "name": "Captain America (2018 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91650",
+            "name": "Captain America (2018) #25 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91651",
+            "name": "Captain America (2018) #25 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/91652",
+            "name": "Captain America (2018) #25 (Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64178",
+            "name": "Captain America (2018) #25"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-11-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-10-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5faedc5b731a7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5faedc5b731a7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9096",
+              "name": "Michael Cho",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13625",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14151",
+              "name": "Anthony Falcone",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+              "name": "Leonard Kirk",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171354",
+              "name": "cover from Captain America (2018) #25",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/171355",
+              "name": "story from Captain America (2018) #25",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77241/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

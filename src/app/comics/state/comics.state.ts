@@ -1,10 +1,12 @@
 
 import { Injectable } from '@angular/core';
 import { Action, State, StateContext, Selector } from '@ngxs/store';
+import { HttpClient } from '@angular/common/http';
 import { produce } from 'immer';
+import { tap } from 'rxjs/operators';
 
 import { FetchComicsDetail, FetchComicsList } from './comics.actions';
-import { ComicsStateModel } from './comics.state-model';
+import { ComicAPIResponse, ComicsStateModel } from './comics.state-model';
 import { comicsInitialState } from './comics.initial-state';
 
 @State<ComicsStateModel>({
@@ -20,9 +22,40 @@ export class ComicsState {
   }
 
   @Selector()
+  static loadingComics(state: ComicsStateModel) {
+    return state.loadingComics;
+  }
+
+  @Selector()
+  static comicsListMetadata({
+    page,
+    count,
+    limit,
+    offset,
+    total
+  }: ComicsStateModel) {
+    return {
+      page,
+      count,
+      limit,
+      offset,
+      total
+    };
+  }
+
+  @Selector()
   static selectedComic(state: ComicsStateModel) {
     return state.selectedComic;
   }
+
+  @Selector()
+  static loadingSelectedComic(state: ComicsStateModel) {
+    return state.loadingSelectedComic;
+  }
+
+  constructor(
+    private http: HttpClient
+  ) {}
 
   @Action(FetchComicsList)
   fetchComicsList(
@@ -30,17 +63,43 @@ export class ComicsState {
       getState,
       setState
     }: StateContext<ComicsStateModel>,
-    action: FetchComicsList
+    {
+      characterId,
+      page = getState().page
+    }: FetchComicsList
   ) {
-    console.log('fetchComicsList', action.characterId);
+    setState(produce(getState(), (draft) => {
+      draft.loadingComics = true;
+    }));
 
-    const state = produce(getState(), (draft) => {
-      draft.comics = [{
-        title: 'Fake Comic'
-      }];
-    });
+    return this.http.get<ComicAPIResponse>(
+      `http://gateway.marvel.com/v1/public/characters/${characterId}/comics`,
+      {
+        params: {
+          offset: (page * getState().limit).toString(),
+          limit: getState().limit.toString()
+        }
+      }
+    )
+    .pipe(
+      tap(
+        (response) => {
+          const state = produce(getState(), (draft) => {
+            draft.comics = response.data.results;
+            draft.page = page;
+            draft.count = response.data.count;
+            draft.limit = response.data.limit;
+            draft.offset = response.data.offset;
+            draft.total = response.data.total;
+            draft.loadingComics = false;
+          });
 
-    setState(state);
+          setState(state);
+
+        }
+      )
+    );
+
   }
 
   @Action(FetchComicsDetail)
@@ -51,15 +110,26 @@ export class ComicsState {
     }: StateContext<ComicsStateModel>,
     action: FetchComicsDetail
   ) {
-    console.log('fetchComicsDetail', action.comicId);
+    setState(produce(getState(), (draft) => {
+      draft.loadingSelectedComic = true;
+    }));
 
-    const state = produce(getState(), (draft) => {
-      draft.selectedComic = {
-        title: 'Fake Comic'
-      };
-    });
+    return this.http.get<ComicAPIResponse>(
+      `http://gateway.marvel.com/v1/public/comics/${action.comicId}`
+    )
+    .pipe(
+      tap(
+        (response) => {
+          const state = produce(getState(), (draft) => {
+            draft.selectedComic = response.data.results[0];
+            draft.loadingSelectedComic = false;
+          });
 
-    setState(state);
+          setState(state);
+
+        }
+      )
+    );
   }
 
 }

@@ -1,3 +1,20 @@
-<p>comics-detail works!</p>
+<ng-container *ngIf="!(loadingSelectedComic$ | async) else loadingContent">
 
-<pre>{{ selectedComic$ | async | json }}</pre>
+	<div fxLayout="row wrap" fxFlexFill *ngIf="selectedComic$ | async as comic">
+
+		<div fxFlex="25" style="padding: 20px;">
+      <img [src]="comic.thumbnail.path + '.' + comic.thumbnail.extension" width="100%">
+		</div>
+
+		<div fxFlex="75" style="padding: 20px;">
+      <h1>{{ comic.title }}</h1>
+      <h2 *ngIf="comic.series">{{ comic.series.name }}</h2>
+		</div>
+
+	</div>
+
+</ng-container>
+
+<ng-template #loadingContent>
+  <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+</ng-template>

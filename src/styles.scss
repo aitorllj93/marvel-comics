@@ -8,8 +8,8 @@
 @include mat-core();
 
 $marvel-red: (
-  50: #F0131E,
-  100: #F0131E,
+  50: #eca9ac,
+  100: #f07e84,
   200: #F0131E,
   300: #F0131E,
   400: #F0131E,
@@ -110,15 +110,6 @@ $marvel-primary: mat-palette($marvel-red);
 $marvel-accent: mat-palette($marvel-black);
 $marvel-warn: mat-palette($marvel-blue);
 
-// Define the palettes for your theme using the Material Design palettes available in palette.scss
-// (imported above). For each palette, you can optionally specify a default, lighter, and darker
-// hue. Available color palettes: https://material.io/design/color/
-$candy-app-primary: mat-palette($mat-indigo);
-$candy-app-accent:  mat-palette($mat-pink, A200, A100, A400);
-
-// The warn palette is optional (defaults to red).
-$candy-app-warn:    mat-palette($mat-red);
-
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as `color` or `typography`.
 $marvel-theme: mat-light-theme(
@@ -139,4 +130,5 @@ html, body {
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
+  background: #bdc3c7;
 }

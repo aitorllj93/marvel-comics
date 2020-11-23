@@ -1,3 +1,31 @@
-<p>comics-list works!</p>
 
-<pre>{{ comics$ | async | json }}</pre>
+<ng-container *ngIf="!(loadingComics$ | async) else loadingContent">
+
+  <mat-paginator
+    [pageIndex]="page"
+    [length]="total"
+    [pageSize]="limit"
+    (page)="onPageChange($event)">
+  </mat-paginator>
+
+	<div fxLayout="row wrap" fxFlexFill>
+
+		<div fxFlex="25" *ngFor="let comic of comics$ | async" style="padding: 20px;">
+
+      <mat-card (click)="onComicClick(comic)">
+        <mat-card-header>
+          <mat-card-title>{{ comic.title }}</mat-card-title>
+          <mat-card-subtitle *ngIf="comic.series">{{ comic.series.name }}</mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image [src]="comic.thumbnail.path + '.' + comic.thumbnail.extension" >
+      </mat-card>
+
+		</div>
+
+	</div>
+
+</ng-container>
+
+<ng-template #loadingContent>
+  <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+</ng-template>

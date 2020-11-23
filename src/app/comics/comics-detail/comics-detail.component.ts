@@ -15,6 +15,7 @@ import { Comic } from '../state/comics.state-model';
 export class ComicsDetailComponent implements OnInit {
 
   @Select(ComicsState.selectedComic) selectedComic$: Observable<Comic>;
+  @Select(ComicsState.loadingSelectedComic) loadingSelectedComic$: Observable<boolean>;
 
   constructor(
     private store: Store,

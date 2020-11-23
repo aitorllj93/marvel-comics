@@ -6,13 +6,15 @@ import { HTTP_INTERCEPTORS } from '@angular/common/http';
 import { HeaderComponent } from './header/header.component';
 
 import { APIKeyInterceptor } from './interceptors/apiKey.interceptor';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [HeaderComponent],
   exports: [HeaderComponent],
   imports: [
     CommonModule,
-    MatToolbarModule
+    MatToolbarModule,
+    RouterModule,
   ],
   providers: [
     {

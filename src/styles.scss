@@ -1,1 +1,142 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '~@angular/material/theming';
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core();
+
+$marvel-red: (
+  50: #F0131E,
+  100: #F0131E,
+  200: #F0131E,
+  300: #F0131E,
+  400: #F0131E,
+  500: #F0131E,
+  600: #F0131E,
+  700: #F0131E,
+  800: #F0131E,
+  900: #F0131E,
+  A100: #F0131E,
+  A200: #F0131E,
+  A400: #F0131E,
+  A700: #F0131E,
+  contrast: (
+    50: white,
+    100: white,
+    200: white,
+    300: white,
+    400: white,
+    500: white,
+    600: white,
+    700: white,
+    800: white,
+    900: white,
+    A100: white,
+    A200: white,
+    A400: white,
+    A700: white,
+  )
+);
+
+$marvel-black: (
+  50: #202020,
+  100: #202020,
+  200: #202020,
+  300: #202020,
+  400: #202020,
+  500: #202020,
+  600: #202020,
+  700: #202020,
+  800: #202020,
+  900: #202020,
+  A100: #202020,
+  A200: #202020,
+  A400: #202020,
+  A700: #202020,
+  contrast: (
+    50: white,
+    100: white,
+    200: white,
+    300: white,
+    400: white,
+    500: white,
+    600: white,
+    700: white,
+    800: white,
+    900: white,
+    A100: white,
+    A200: white,
+    A400: white,
+    A700: white,
+  )
+);
+
+$marvel-blue: (
+  50: #3b67d3,
+  100: #3b67d3,
+  200: #3b67d3,
+  300: #3b67d3,
+  400: #3b67d3,
+  500: #3b67d3,
+  600: #3b67d3,
+  700: #3b67d3,
+  800: #3b67d3,
+  900: #3b67d3,
+  A100: #3b67d3,
+  A200: #3b67d3,
+  A400: #3b67d3,
+  A700: #3b67d3,
+  contrast: (
+    50: white,
+    100: white,
+    200: white,
+    300: white,
+    400: white,
+    500: white,
+    600: white,
+    700: white,
+    800: white,
+    900: white,
+    A100: white,
+    A200: white,
+    A400: white,
+    A700: white,
+  )
+);
+
+$marvel-primary: mat-palette($marvel-red);
+$marvel-accent: mat-palette($marvel-black);
+$marvel-warn: mat-palette($marvel-blue);
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue. Available color palettes: https://material.io/design/color/
+$candy-app-primary: mat-palette($mat-indigo);
+$candy-app-accent:  mat-palette($mat-pink, A200, A100, A400);
+
+// The warn palette is optional (defaults to red).
+$candy-app-warn:    mat-palette($mat-red);
+
+// Create the theme object. A theme consists of configurations for individual
+// theming systems such as `color` or `typography`.
+$marvel-theme: mat-light-theme(
+  $marvel-primary,
+  $marvel-accent,
+  $marvel-warn
+);
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include angular-material-theme($marvel-theme);
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
